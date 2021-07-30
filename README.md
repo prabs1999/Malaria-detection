@@ -9,3 +9,6 @@ Also, all the images are raw and have different intensities, and since there is 
 dataset: 1)	https://www.kaggle.com/search?q=malaria+detection
          2) ftp://lhcftp.nlm.nih.gov/Open-Access-Datasets/Malaria/cell_images.zip
          
+![image](https://user-images.githubusercontent.com/67868742/127699288-0fe52d1e-fe9e-4e9f-9826-a3e55b5ae610.png)
+![image](https://user-images.githubusercontent.com/67868742/127699315-a21e4a07-8222-4f77-81b0-0fb6ba874c49.png)
+![image](https://user-images.githubusercontent.com/67868742/127699358-33103882-0368-4882-872b-eb1ca7b9909a.png)
